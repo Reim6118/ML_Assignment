@@ -1,3 +1,5 @@
+## This code is used to train a classification model to detect anomaly screws in a given MVTec Screws dataset.
+
 # How to run the code
 
 ## Libraries
